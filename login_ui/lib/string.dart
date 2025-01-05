@@ -1,0 +1,11 @@
+String user_string = "Email address or phone number";
+String pass_string = "Password";
+String login_string = "Log in";
+String forget_string = "Forgotten password?";
+String create_string = "Create new account";
+String extra_string = "Create a Page for celebrity, brand or business";
+String copyright_string1 = "Meta";
+String copyright_string2 = "2024";
+String forget_url = "https://www.facebook.com/login/identify/?ctx=recover&ars=facebook_login&from_login_screen=0";
+String create_url = "https://www.facebook.com/r.php?entry_point=login";
+String riveURL = "asset/bear.riv";
